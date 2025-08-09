@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Alex, a **Computer Engineer** with *20+ years** in software development, specializing in **back-end systems** and **high-performance architectures**.
+I'm Alex, a **Computer Engineer** with **20+ years** in software development, specializing in **back-end systems** and **high-performance architectures**.
 
 I hold a **Master’s degree in Digital Signal Processing** from [COPPE/UFRJ](https://coppe.ufrj.br/) and a **degree in Computer Engineering** from [UFAM](https://ufam.edu.br/), where I was a teaching assistant in Algorithms and Data Structures.
 
