@@ -1,4 +1,14 @@
-## Hi there 👋
+## About Me
+
+I'm Alex, a Computer Engineer with 20+ years in software development, specializing in back-end systems and high-performance architectures.
+
+I hold a Master’s degree in Digital Signal Processing from [COPPE/UFRJ](https://coppe.ufrj.br/) and a degree in Computer Engineering from [UFAM](https://ufam.edu.br/), where I was a teaching assistant in Algorithms and Data Structures.
+
+I’ve worked 10 years in the financial industry and contributed to projects in manufacturing, telecommunications, ERP systems, biometric access control, and embedded systems for Digital TV.
+
+My main expertise is backend development, with additional experience in frontend. I focus on efficient, scalable, and technically excellent solutions.
+
+You can find more about my work and articles on my [website](https://alexcaranha.com/).
 
 <!--
 **AlexCaranha/AlexCaranha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
